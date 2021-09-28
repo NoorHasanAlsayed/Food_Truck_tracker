@@ -6,10 +6,16 @@ Food Truck Tracker is a project to find the location of food trucks and find the
 ## users:
 customer@gmail.com => customer 
 owner@gmail.com => truck owner
- admin@admin.com => admin
+admin@admin.com => admin
+
+password :: password
 
 ## start project
-in the terminal add this command "php artisan serve"
+-Run "composer install" on your cmd or terminal.
+-Copy .env.example file to .env on the root folder.
+-add your google api key to .env
+-Run "php artisan key:generate"
+-Run php artisan serve
 
-## Google api key
-please add your google api key
+
+ 
