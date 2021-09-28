@@ -15,7 +15,7 @@ password :: password
 -Copy .env.example file to .env on the root folder.
 -add your google api key to .env
 -Run "php artisan key:generate"
--Run php artisan serve
+-Run php artisan serve.
 
 
  
