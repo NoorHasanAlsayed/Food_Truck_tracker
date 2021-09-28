@@ -13,11 +13,11 @@ password :: password
 </p>
 ## start project
 <p>
--Run "composer install" on your cmd or terminal.
--Copy .env.example file to .env on the root folder.
--add your google api key to .env
--Run "php artisan key:generate"
--Run php artisan serve.
+- Run "composer install" on your cmd or terminal.
+- Copy .env.example file to .env on the root folder.
+- add your google api key to .env
+- Run "php artisan key:generate"
+- Run php artisan serve.
     </p>
 
 
